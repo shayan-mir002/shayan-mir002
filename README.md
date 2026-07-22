@@ -29,73 +29,14 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="90">
-
-```
-🤖 AI Engineering
-```
-
-Designing and building **AI agents**, **agentic workflows**, and intelligent automation systems that can reason, plan, and execute.
-
-</td>
-<td width="10"></td>
-<td align="center" width="90">
-
-```
-🌐 Full-Stack Development
-```
-
-End-to-end web applications using **React**, **Next.js**, **Node.js**, and modern databases — from prototype to production.
-
-</td>
-</tr>
-<tr><td colspan="3" height="10"></td></tr>
-<tr>
-<td align="center" width="90">
-
-```
-🧠 Prompt Engineering
-```
-
-Crafting optimized prompts and **LLM-powered tools** that turn raw AI models into real, usable products.
-
-</td>
-<td width="10"></td>
-<td align="center" width="90">
-
-```
-📊 Machine Learning
-```
-
-Training models, building data pipelines, and deploying **ML-powered features** for real-world applications.
-
-</td>
-</tr>
-<tr><td colspan="3" height="10"></td></tr>
-<tr>
-<td align="center" width="90">
-
-```
-🚀 DevOps & Deployment
-```
-
-CI/CD pipelines, cloud deployments on **Vercel**, **Netlify**, and **AWS** — shipping fast and shipping right.
-
-</td>
-<td width="10"></td>
-<td align="center" width="90">
-
-```
-🔗 Agentic AI & Skills
-```
-
-Building autonomous agents that use **tools**, **skills**, and **reasoning loops** to solve complex multi-step tasks.
-
-</td>
-</tr>
-</table>
+| | Area | What I Build |
+|---|---|---|
+| 🤖 | **AI Engineering** | Designing and building **AI agents**, **agentic workflows**, and intelligent automation systems |
+| 🌐 | **Full-Stack Development** | End-to-end web applications using **React**, **Next.js**, **Node.js**, and modern databases |
+| 🧠 | **Prompt Engineering** | Crafting optimized prompts and **LLM-powered tools** that turn AI into a real product |
+| 📊 | **Machine Learning** | Training models, data pipelines, and **ML-powered features** for real-world applications |
+| 🚀 | **DevOps & Deployment** | CI/CD pipelines, cloud deployments on **Vercel**, **Netlify**, and **AWS** |
+| 🔗 | **Agentic AI & Skills** | Building autonomous agents that use **tools**, **skills**, and **reasoning loops** |
 
 ---
 
